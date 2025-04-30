@@ -20,7 +20,7 @@ const path = require('path');
 // });
 
 const corsOption = {
-    origin: "https://document-management-app-fyy6.onrender.com",
+    origin: "https://document-mgmt.netlify.app",
     methods: "GET,POST,PUT,DELETE,PATCH,HEAD",
     credentials: true,
 }
